@@ -1,5 +1,12 @@
 ![Plonky3-powered-by-polygon](https://github.com/Plonky3/Plonky3/assets/86010/7ec356ad-b0f3-4c4c-aa1d-3a151c1065e7)
 
+This repository is a fork of Plonky3 and part of the Soulforge initiative by zkBankai. It extends the hybrid-hash mixed matrix commitment scheme, balancing fast hashes with recursion-friendly arithmetic hashes.
+
+>i.e.  adding STIR implementation, Offering an alternative to FRI for low-degree testing, leading to reduced proof size at the expense of little extra prover work.
+
+       🐉 This implementation is not audited, Please use it carefully 
+Efforts lead by: [@mmagician](https://github.com/mmagician) [@Cesar199999](https://github.com/Cesar199999)  [@Antonio95](https://github.com/Antonio95)  
+
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/Plonky3/Plonky3/blob/main/LICENSE-MIT)
 [![License](https://img.shields.io/github/license/Plonky3/Plonky3)](https://github.com/Plonky3/Plonky3/blob/main/LICENSE-APACHE)
 
@@ -224,3 +231,4 @@ Unless you explicitly state otherwise, any contribution intentionally
 submitted for inclusion in the work by you, as defined in the
 Apache-2.0 license, shall be dual licensed as above, without any
 additional terms or conditions.
+
